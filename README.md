@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-interactive-rating-component-OhA4oCr15N)
+- Live Site URL: [Live site URL](https://tedobanks.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -50,6 +50,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [@mrbankong](https://www.instagram.com/mrbankong)
+- Instagram - [@mrbankong](https://www.instagram.com/mrbankong)
 - Frontend Mentor - [@tedobanks](https://www.frontendmentor.io/profile/tedobanks)
 - Twitter - [@tedbankong](https://www.twitter.com/tedbankong)
